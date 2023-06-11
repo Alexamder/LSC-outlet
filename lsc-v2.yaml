@@ -47,7 +47,7 @@ wifi:
     ssid: ${device_name}
 
 dashboard_import:
-  package_import_url: github://Alexamder/LSC-outlet/lsc-outlet.yaml@main
+  package_import_url: github://Alexamder/LSC-outlet/lsc-v2.yaml@main
 
 captive_portal:
 
