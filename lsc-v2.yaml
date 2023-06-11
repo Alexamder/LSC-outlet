@@ -1,5 +1,5 @@
 substitutions:
-  device_name: LSC Wallplug
+  device_name: lsc
   device_description: "LSC Wallpug"
   friendly_name: LSC Wallplug
   prj_version: "v1.00.1"
