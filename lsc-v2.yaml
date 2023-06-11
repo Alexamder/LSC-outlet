@@ -17,7 +17,6 @@ substitutions:
 
 esphome:
   name: ${device_name}
-  friendly_name: Action1
   comment: "${device_description}" 
   name_add_mac_suffix: true
   project: 
